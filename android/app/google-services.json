@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343877152300",
+    "project_id": "rsdev-quiz-app",
+    "storage_bucket": "rsdev-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343877152300:android:0440d39305c8a8ac8f2b89",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343877152300-ah26ebonpv4ms6agardvr29tmmj748s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZeNsf0MbKAZ7O_hiEh-wmiEilemmmsFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343877152300-ah26ebonpv4ms6agardvr29tmmj748s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
